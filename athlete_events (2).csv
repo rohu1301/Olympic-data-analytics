@@ -1,0 +1,10 @@
+ID,Name,Sex,Age,Height,Weight,Team,NOC,Games,Year,City,Sport,Event,Medal,Season
+1,Michael Phelps,M,23,193,91,USA,USA,2008 Summer,2008,Beijing,Swimming,100m Butterfly,Gold,Summer
+2,Usain Bolt,M,22,195,94,Jamaica,JAM,2008 Summer,2008,Beijing,Athletics,100m,Gold,Summer
+3,Simone Biles,F,19,142,47,USA,USA,2016 Summer,2016,Rio,Gymnastics,All-Around,Gold,Summer
+4,Misty May-Treanor,F,30,175,64,USA,USA,2008 Summer,2008,Beijing,Volleyball,Beach Volleyball,Gold,Summer
+5,Mo Farah,M,29,175,58,Great Britain,GBR,2012 Summer,2012,London,Athletics,5000m,Gold,Summer
+6,Nadia Comaneci,F,14,161,50,Romania,ROU,1976 Summer,1976,Montreal,Gymnastics,All-Around,Gold,Summer
+7,Michael Phelps,M,27,193,91,USA,USA,2012 Summer,2012,London,Swimming,100m Butterfly,Gold,Summer
+8,Usain Bolt,M,26,195,94,Jamaica,JAM,2012 Summer,2012,London,Athletics,100m,Gold,Summer
+9,Simone Biles,F,23,142,47,USA,USA,2020 Summer,2021,Tokyo,Gymnastics,All-Around,Gold,Summer
